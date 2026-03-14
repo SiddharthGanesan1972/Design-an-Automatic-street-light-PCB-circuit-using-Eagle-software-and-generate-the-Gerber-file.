@@ -42,6 +42,8 @@ The circuit functions by sensing the amount of light falling on the LDR and resp
 
 ## EXPECTED OUTPUT:
 ### Schematic diagram
+<img width="1920" height="1080" alt="Screenshot 2025-11-26 125626" src="https://github.com/user-attachments/assets/81543d66-09df-4230-9b94-ab88de7f963c" />
+# EXPECTED OUTPUT:
 
  ![image](https://github.com/user-attachments/assets/2b55482a-0714-4eac-895c-70f966d1d413)
 
